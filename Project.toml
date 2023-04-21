@@ -1,4 +1,4 @@
-name = "julia_voting2"
+name = "julia_voting"
 uuid = "302bb31e-491c-4c01-a05b-75353fa94680"
 authors = ["Jameson Quinn <jameson.quinn@gmail.com>"]
 version = "0.1.0"
